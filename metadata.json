@@ -1,0 +1,7 @@
+{
+  "name": "demo 8 - supabase- Đấu trường học tập (Learning Arena)",
+  "description": "A professional gamified EdTech platform featuring an RPG-like quiz engine, XP systems, level progression, and a teacher administration dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
